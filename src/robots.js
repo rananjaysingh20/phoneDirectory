@@ -3,48 +3,42 @@ export const robots = [
 		id: 1,
 		name: 'Deepanshi',
 		username: 'Deepu',
-		email: 'deepu@gmail.com'
+		email: 'deepu@gmail.com',
+		image: 'C:\React\new\roboFriends\src\components\img\Deepu.jpg'
 	},
 	{
 		id: 2,
 		name: 'Devansh',
 		username: 'Dev',
-		email: 'dev@gmail.com'
+		email: 'dev@gmail.com',
+		image: 'C:\React\new\roboFriends\src\components\img\Deepu.jpg'
 	},
 	{
 		id: 3,
 		name: 'Amaan',
 		username: 'momdan',
-		email: 'momdan@gmail.com'
+		email: 'momdan@gmail.com',
+		image: 'C:\React\new\roboFriends\src\components\img\Deepu.jpg'
 	},
 	{
 		id: 4,
 		name: 'Dhananjay',
 		username: 'Dheeru',
-		email: 'dheeru@gmail.com'
+		email: 'dheeru@gmail.com',
+		image: 'C:\React\new\roboFriends\src\components\img\Deepu.jpg'
 	},
 	{
 		id: 5,
-		name: 'Vinay',
-		username: 'Vinny',
-		email: 'vinny@gmail.com'
+		name: 'Amber',
+		username: 'Ambi',
+		email: 'ambi@gmail.com',
+		image: 'C:\React\new\roboFriends\src\components\img\Deepu.jpg'
 	},
 	{
 		id: 6,
-		name: 'Jitendra',
-		username: 'jitu',
-		email: 'jitu@gmail.com'
-	},
-	{
-		id: 7,
-		name: 'Rahul',
-		username: 'dancer',
-		email: 'dancer@gmail.com'
-	},
-	{
-		id: 8,
-		name: 'Ishan',
-		username: 'mote',
-		email: 'mote@gmail.com'
+		name: 'Nazim',
+		username: 'Nazim',
+		email: 'Nazim@gmail.com',
+		image: 'C:\React\new\roboFriends\src\components\img\Deepu.jpg'
 	}
 ];
