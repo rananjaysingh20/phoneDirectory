@@ -1,11 +1,25 @@
 @font-face {
-    font-family: 'SEGA LOGO FONT';
+    font-family: 'Ubuntu Bold';
     font-style: normal;
     font-weight: normal;
-    src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+    src: local('Ubuntu Bold'), url('Ubuntu-B.woff') format('woff');
 }
 h1 {
-    font-family: 'SEGA LOGO FONT';
+    font-family: 'Ubuntu Bold';
+    text-transform: capitalize;
     font-weight: 200;
-    color: #FFB700;
+    color: #CCCCCC;
+}
+
+h2 {
+    font-family: 'Ubuntu Bold';
+    text-transform: capitalize;
+    font-weight: 200;
+    color: white;
+}
+p {
+    font-family: 'Ubuntu Bold';
+    text-transform: capitalize;
+    font-weight: 200;
+    color: gray;
 }
