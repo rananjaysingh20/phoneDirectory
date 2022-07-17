@@ -4,12 +4,6 @@
     font-weight: normal;
     src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
 }
-@font-face {
-  font-family: 'Ubuntu';
-  font-style: normal;
-  font-weight: 400;
-  src: local('ubuntu-v20-latin-regular.woff') format('woff'),
-}
 h1 {
     font-family: 'SEGA LOGO FONT';
     font-weight: 200;
